@@ -1,0 +1,551 @@
+
+RIKER: This just came in for you from Starfleet 
+WESLEY: Testing parameters?
+DATA: Do not be apprehensive. Wes. I found the Academy examinations quite elementary.
+WESLEY: You would.
+RIKER: Your earlier test results were good enough to get you Academy credit for your work here. I don't think you have anything to worry about. 
+WESLEY: Those Academy cadets can be extremely competitive. 
+RIKER: But you have the practical experience, Wes. 
+DATA: Commander Riker is correct. While the information imparted to cadets at the Academy is unquestionably vital for prospective Starfleet officers, it nevertheless requires a significant period of supplementary systems training and situational disciplines. 
+RIKER: Didn't I just say that? 
+DATA: Yes, sir, but not quite as perspicuously.
+
+PICARD: I will not have you telling me what course to set. 
+PULASKI: As Chief Medical Officer, I am ordering you to report to Starbase Five One Five immediately. 
+PICARD: Oh, please. I feel fine. 
+PULASKI: The truth is, you've ignored this far too long. 
+PICARD: This ship has a mission to carry out. 
+PULASKI: An astronomical survey to be conducted by the science officers, I believe. 
+PICARD: And I 'was looking forward to seeing the Epsilon Pulsar Cluster for myself. 
+PULASKI: Then we'll perform the procedure right here. 
+PICARD: Absolutely not. 
+PULASKI: My staff and I are fully capable of giving you the replacement. 
+PICARD: That's not the point. It would be (deep breath) It would be inappropriate for you to carry out the procedure. 
+PULASKI: Captain Picard, I had no idea. You do have an ego, don't you? 
+PICARD: Meaning? 
+PULASKI: You're concerned about your image. Don't worry. If you get yourself down to Starbase Five One Five, your image will be safe with me.
+
+WESLEY: Captain, excuse me. 
+PICARD: Ensign. I understand you're leaving for Starbase Five One Five. 
+WESLEY: Yes, sir. I was just going to shuttlebay two. 
+PICARD: Good. I have business there. I shall accompany you. 
+WESLEY: You will? I mean, yes sir. 
+PICARD: Prepare the shuttle for immediate departure. 
+WESLEY: Aye, sir. 
+RIKER: Something I can take care of for you on Starbase Five One Five? 
+PICARD: Hardly, Number One. 
+RIKER: But you'll miss the Epsilon Pulsar survey. 
+PICARD: I'm well aware of that fact. You have the Bridge. Carry on.
+
+PICARD: Come. Yes, what is it, Number One? 
+RIKER: Is something wrong? This trip to Starbase Five One Five is rather unexpected. 
+PICARD: Ensign Crusher and I will rendezvous with you on your return from the Epsilon Pulsar Cluster. 
+RIKER: Forgive my saying so, sir, but you're being rather enigmatic. 
+PICARD: Consider it Captain's privilege. 
+RIKER: As First Officer, I have complete security clearance. 
+PICARD: This has nothing to do with ship's business, Number One. Suffice it to say, it is strictly a matter of image.
+
+LAFORGE: Relax, Wes. You'll do fine on your exams. 
+SONYA: Yeah. 
+WESLEY: It's not my exams I'm worried about. It's Captain Picard. 
+SONYA: Why? He's not taking the exams. 
+WESLEY: It's just the two of us, in a shuttlecraft for six hours. What am I going to talk to Captain Picard about for six hours? 
+SONYA: Archaeology, semantics, literature, art. You could learn a lot from Captain Picard. 
+LAFORGE: Ah, Captain Picard. Nice day for a little trip.
+
+WESLEY: Shuttle number two is ready for departure. 
+DATA: The Enterprise is at impulse speed. You are cleared for take off. 
+
+RIKER: Data, wasn't the Captain looking forward to this mission to the Epsilon Pulsar Cluster? 
+DATA: So he said. 
+RIKER: Then what would make him change his mind? Why would he leave the ship now? 
+WORF: Commander, receiving a mayday on all frequencies. 
+RIKER: Source? 
+WORF: Rhomboid Dronegar Sector zero zero six 
+RIKER: Detail? 
+WORF: Ship. Unidentified. Distress. Nothing more. 
+RIKER: Set course for Rhomboid Dronegar zero zero six, warp seven. 
+DATA: Sir, Rhomboid Dronegar sector would put us at considerable distance from Captain Picard. 
+RIKER: I know, Data. I know. 
+
+DATA: Entering Rhomboid Dronegar Sector zero zero six. 
+WORF: I have a ship on target path. 
+RIKER: Slow to impulse speed. 
+HELM: Aye, sir. 
+RIKER: Viewer. 
+WORF: Deploy shields, sir? 
+RIKER: Hold fast. Data? 
+DATA: Basic early design. Capable of sub-light travel only. 
+WORF: Sir, we are being hailed. 
+RIKER: On screen. 
+RIKER: I am First Officer William Riker of the USS Enterprise. We're responding to your distress signal. 
+GREBNEDLOG: (not looking at the screen, grunts his acknowledgement) 
+RIKER: What is your problem? 
+GREBNEDLOG: We are far from home. 
+RIKER: Aren't we all. But you sent out a Mayday? 
+RIKER: Do you need help? 
+GREBNEDLOG: We are Pakleds. Our ship is the Mondor. It is broken. 
+GREBNEDLOG: We are far from home. We need help. 
+LAFORGE: Let me guess. Their rubber band broke, right? 
+DATA: Sensors indicate engineering problems. They're experiencing total guidance system failure, with less than twenty four hours' reserve power. 
+LAFORGE: Maybe I can help. 
+RIKER: What brings you so far from home? 
+GREBNEDLOG: We look for things. 
+RIKER: What were you looking for? 
+GREBNEDLOG: Things we need. 
+RIKER: Can you be more specific? 
+GREBNEDLOG: Things that make us go. We need help. 
+RIKER: What is the nature of your mission? 
+GREBNEDLOG: We look for things. 
+RIKER: Did you hear an echo? 
+LAFORGE: Commander, from the looks of their ship, I could have them up and running in no time. 
+RIKER: You sure? 
+LAFORGE: Yeah, no problem. 
+RIKER: Very well. Our Chief Engineer will beam over to help you. Close. 
+WORF: Commander? Do we truly need to send our Chief Engineer over to them? 
+RIKER: Obviously they need our help. 
+WORF: Why do we not simply give them the information they need to make their own repairs? 
+RIKER: Do you honestly get the impression they could handle our technical specifications? 
+WORF: We do not know anything about them. 
+RIKER: Acknowledged, Mister Worf. We have an obligation to render aid. Report to the transporter Room with all necessary gear. 
+LAFORGE: Aye, sir. 
+
+WORF: We need more information. 
+RIKER: Do you have anything else on them? 
+DATA: They are a relatively benign species. 
+RIKER: Don't they seem a little slow? 
+DATA: They may merely have poorly developed language skills. 
+WORF: What about weapons? 
+DATA: Scanners shows limited armaments. 
+RIKER: I think we can relax, Mister Worf. They can't even move their ship without our help. We certainly have them outmanned and outgunned.
+
+WESLEY: ETA thirteen thirty hours, sir. It's not exactly warp speed. 
+PICARD: More like a late twenty-second century interplanetary journey. 
+WESLEY: Sir? 
+PICARD: You should read more history, Ensign. 
+WESLEY: Yes, sir. 
+PICARD: Complete waste of time. 
+WESLEY: Pardon? 
+PICARD: I shouldn't be taking this trip at all. I should be back on board the Enterprise. 
+WESLEY: Why are you coming with me to Starbase Five One Five, sir? 
+PICARD: Well, it's certainly not my idea. I'm sorry, Ensign, I didn't mean to take it out on you. I just hate the prospect of another damned cardiac replacement. 
+WESLEY: Cardiac replacement? I didn't know. 
+PICARD: Well, now you do. 
+WESLEY: A parthenogenetic implant? 
+PICARD: What else would it be? My heart was injured and a replacement was necessary. That would have been it, except that the replacement is faulty. 
+WESLEY: Why would anyone use a faulty replacement? 
+PICARD: Just pilot the shuttle, Ensign.
+
+LAFORGE: Whoa, whoa, wait a minute, it's okay. I'm here to help. 
+GREBNEDLOG: We are far from home. 
+LAFORGE: Who's in charge of Engineering? 
+GREBNEDLOG: My friend. His name is Reginod. 
+LAFORGE: Think I could meet him? 
+GREBNEDLOG: He is Reginod. 
+LAFORGE: Yes, I think you mentioned that. 
+REGINOD: We look for things. 
+LAFORGE: So I've heard. 
+GREBNEDLOG: Can you make our ship go? 
+LAFORGE: Yes, I think so. 
+GREBNEDLOG: We look for things to make us go. 
+LAFORGE: Fellas, why don't you show me where your guidance system is, okay? Excuse me.
+REGINOD: He is smart.
+
+TROI: Commander? Lieutenant La Forge is on an alien ship? 
+RIKER: Yes. We're rendering assistance to some curious throwbacks. 
+DATA: How they ever mastered the rudiments of space travel is a genuine curiosity. 
+TROI: Commander. Those aliens. What they feel is not helplessness. Lieutenant La Forge is in great danger! He's in danger, great danger. 
+RIKER: Can you be more specific, Counsellor? 
+TROI: It's not our help they want. 
+RIKER: Well, our help is all they're going to get. They can't force us into anything, can they? 
+TROI: You think they're weak. 
+RIKER: Look at them. They're certainly not Jarada or Romulans. 
+DATA: Our Betazoid Counsellor is often aware of things beyond our perceptive abilities.
+
+PICARD: Van Doren's technique has been perfected to two point four percent. 
+WESLEY: Sir? 
+PICARD: The cardiac replacement procedure. It has a very low mortality rate. Two point four percent. 
+WESLEY: Those are pretty good odds. 
+PICARD: Just not overly thrilled at the prospect of having my innards becoming the subject of Starfleet gossip. 
+WESLEY: Of course not, sir. Why didn't you just have Doctor Pulaski perform the operation? I'm sure you could've trusted her to keep it quiet. 
+PICARD: Let's say I have personal reasons and leave it at that, shall we?
+
+LAFORGE: The power needs to be rerouted through this venturi chamber before it can be channelled to the engine's coils. 
+REGINOD: It is broken. 
+LAFORGE: Yeah, but not for long. See, we are going to reconfigure these separators, here and over here. 
+RIKER: Lieutenant La Forge, this is Commander Riker. Come in. 
+LAFORGE: Yes, Commander. Go ahead.
+
+RIKER: Are you all right? 
+LAFORGE: Sure. Why do you ask? 
+RIKER: Counsellor Troi has expressed misgivings about your absence from the Enterprise. 
+LAFORGE: I don't think there's anything to worry about. 
+RIKER: Understood. As soon as you complete the repairs, I want you back here. 
+LAFORGE: Yes, sir, I should be done here momentarily.
+
+LAFORGE: You see? Like that. There. Your guidance is now up and running. 
+LAFORGE: Main power failure? 
+GREBNEDLOG: Will our ship go now? 
+LAFORGE: Your guidance is operational, but you're not going anywhere, not with a main power failure. 
+GREBNEDLOG: It is broken. 
+REGINOD: Can you make it go? 
+LAFORGE: Commander Riker?
+
+LAFORGE: I have a problem. 
+RIKER: On screen. 
+LAFORGE: It looks like this is going to take a little bit longer than I anticipated.
+
+WESLEY: I guess you would have preferred Commander Riker as a travelling companion. 
+PICARD: What? 
+WESLEY: It's okay. You're not too comfortable with me. I understand. 
+PICARD: Ensign. Wesley, that's not true. You're a fine young man. 
+WESLEY: You don't have to say that, sir. It's pretty obvious how you feel. 
+PICARD: Is it? How so? 
+WESLEY: Everyone knows. You don't like kids. That's too bad. You'd have made a good father. 
+PICARD: Thank you. 
+WESLEY: Didn't you ever wish you had kids of your own? 
+PICARD: Wishing for a thing does not make it so.
+
+RIKER: We send him over there for one set of repairs, now they need him for more. 
+DATA: Apparently, their ship is apparently quite fragile. 
+RIKER: This is Riker on the Enterprise. 
+LAFORGE: Almost got it, Commander. 
+GREBNEDLOG: We look for things. 
+RIKER: Apparently your ship is in need of more than minor repair. 
+GREBNEDLOG: Things to make it go. 
+RIKER: We will use our tractor beam to tow you to the nearest base. 
+GREBNEDLOG: He can make it go. 
+RIKER: Yes, but we need our Chief Engineer back on board our ship. 
+GREBNEDLOG: He is smart. 
+LAFORGE: All done, Commander. 
+RIKER: Prepare to beam over. 
+LAFORGE: Yes, sir.
+
+REGINOD: You are good. 
+LAFORGE: We aim to please. 
+REGINOD: We need you. 
+LAFORGE: I'm flattered. Look, fellas, I hate to repair and run, but if you'll excuse me. One to beam aboard. 
+LAFORGE: Hey! Don't!
+
+RIKER: Transporter room, beam La Forge back immediately. 
+CHIEF: Aye negative response, sir. 
+RIKER: Try again! 
+CHIEF: Negative response! 
+DATA: The Pakled ship has a shield up, sir. 
+RIKER: A shield? What kind? 
+DATA: It appears to be beyond their technology. Similar to Romulan shields. 
+RIKER: Do not interfere with our transporter beam. Drop your shields. 
+RIKER: Status? 
+WORF: Viewer transmission terminated and blocked. 
+RIKER: Hail on all frequencies. 
+DATA: Running frequency search. Negative, sir. 
+RIKER: They're ignoring us. 
+DATA: Apparently so. 
+RIKER: Shields up. 
+WORF: Shields up. 
+RIKER: Sensors at maximum sensitivity. 
+DATA: Sensors at maximum. 
+WORF: Phasers ready, sir.
+
+PICARD: Would you care for some coffee, Ensign? 
+WESLEY: No, thank you, sir. 
+PICARD: How about a sandwich? 
+WESLEY: I don't think so, sir. 
+PICARD: Oh, come on, it's been hours. You must be hungry. 
+WESLEY: Thank you, sir. 
+PICARD: Here. 
+WESLEY: Were you ever married? 
+PICARD: Never had the time. 
+WESLEY: Don't you ever get lonely? 
+PICARD: For ambitious Starfleet officers, there are certain costs involved. One must be cautious of long-term commitments, Wesley. 
+WESLEY: No problem. Where women are concerned, I am in complete control. 
+PICARD: Really? I always rather had to work at that. 
+WESLEY: Have you always been so disciplined? 
+PICARD: Good Lord, no. If I was, I wouldn't have this problem. 
+WESLEY: I don't understand. 
+PICARD: Well, I was a young Starfleet officer, not many years older than you are now. Top of my Academy Class. Green as hell. And oh, so cocky. Too cocky, as it turned out. 
+WESLEY: What happened? 
+PICARD: Several friends and I were on leave at Farspace Starbase Earhart. It was little more than a galactic outpost in those days. 
+WESLEY: Was this before the Klingons joined the Federation? 
+PICARD: That's right. Well, my mates and I were at the Bonestell Recreation Facility, which was something of a dead rough crossroads at the time, filled with an assorted bunch of galactic riffraff. When a trio of Nausicaans came in, they were clearly spoiling for a confrontation with a group of fresh-faced Starfleet officers such as ourselves. Well, everyone in the group had the good sense to give these Nausicaans a wide berth, to stand off. Everyone, that is, except me. I stood toe to toe with the worst of the three, and I told him what I thought of him, his pals, his planet, and I possibly made some passing reference to his questionable parentage. And the next thing I knew, all three of them were on me and I was fighting for my life. I was actually doing quite well for a while, too. 
+WESLEY: You fought them? And won? 
+PICARD: I had this one Nausicaan down in this somewhat devious joint-lock when, unbeknownst to me, one of his chums drew his weapon and impaled me through the back. Curious sensation, actually. Not much pain. Shock, certainly, at the sight of serrated metal sticking through my chest. A certain giddy warmth. In fact I do actually remember that I laughed out loud. Well, it pierced my heart, of course. Well, if we'd not been so near to a medical facility, I would surely have died. 
+WESLEY: Really? Then what happened? 
+PICARD: Nothing. I was no hero, Wesley. I was an undisciplined, loud-mouthed, opinionated young man who was way out of his league. I learned a very hard, very painful lesson that day, but I learned it well. I hope you never have to learn it the same way. Care for another sandwich? 
+WESLEY: Please.
+
+RIKER: Come on, Data. 
+DATA: I am programming the comm. system to scan the interference patterns, but a full analysis will take time.
+
+LAFORGE: You be careful with that thing. 
+GREBNEDLOG: You want to hurt us. 
+LAFORGE: What? I came here to help you. 
+REGINOD: We can make more. 
+GREBNEDLOG: Make more weapons. 
+LAFORGE: Wait a minute. You have a replicator? 
+GREBNEDLOG: It is not broken. 
+LAFORGE: I didn't come here to give you weapons. 
+GREBNEDLOG: You will make more.
+
+WORF: Commander, a photon torpedo may penetrate their shield. 
+RIKER: Any hostile move on our part could jeopardise Geordi. 
+WORF: Agreed. But what do the Pakleds want? 
+RIKER: Counsellor? 
+TROI: They have what they want. For now.
+
+WESLEY: We're approaching Starbase Five One Five, sir. 
+PICARD: At last. Did you read that book I gave you? 
+WESLEY: Some of it. 
+PICARD: That's reassuring. 
+WESLEY: I just don't have much time. 
+PICARD: There is no greater challenge than the study of philosophy. 
+WESLEY: But William James won't be in my Starfleet exams. 
+PICARD: The important things never will be. Anyone can be trained in the mechanics of piloting a starship. 
+WESLEY: But Starfleet Academy 
+PICARD: It takes more. Open your mind to the past. Art, history, philosophy. And all this may mean something.
+
+TROI: It's all deception. Nothing the Pakleds have said or done has been sincere. 
+DATA: Intensified scan shows their guidance system to be perfectly intact, as is their power generator. 
+RIKER: Then what was Geordi repairing? 
+DATA: Apparently, the putative malfunctions were carefully programmed into their ship's computer. 
+RIKER: I didn't think the Pakleds had that kind of technology. 
+DATA: They seem to have made some technological leaps forward, Commander. 
+RIKER: Why would they go through the charade of needing our help? 
+TROI: For the sole purpose of making Lieutenant La Forge their prisoner.
+
+PICARD: I hope you won't be late for your exams. 
+WESLEY: I still have some time, sir. 
+PICARD: Why do I get the distinct impression you're acting like some kind of escort? 
+WESLEY: Doctor Pulaski asked me to make sure you actually went inside. 
+PICARD: That woman. She would. 
+WESLEY: Sir? 
+PICARD: Yes, what is it, Ensign? 
+WESLEY: I enjoyed our trip together, sir. 
+PICARD: So did I.
+
+DATA: They are initiating visual contact, sir. 
+RIKER: Maybe now we'll find out what they really want. 
+GREBNEDLOG: Enterprise. 
+RIKER: We demand that you return our crewmember immediately. 
+GREBNEDLOG: Request denied. 
+RIKER: Lower your shield! 
+GREBNEDLOG: Request denied. 
+RIKER: Stop it! What do you want? 
+GREBNEDLOG: You think we are not smart. 
+RIKER: I think you need to continue to develop. 
+GREBNEDLOG: We are smart. 
+RIKER: Prove it. Return our man to us. 
+GREBNEDLOG: You want him? 
+RIKER: Yes, damn it. 
+GREBNEDLOG: Good. We want all computer information from your ship. Now.
+
+RIKER: We've got a man held hostage by alien forces and all I have are no-option options. I need some input. 
+PULASKI: Is Geordi all right? 
+WORF: He's already been hit by multiple phaser stuns. 
+PULASKI: He could need medical attention. 
+WORF: Security team stands ready to take the initiative, sir. 
+RIKER: Data? 
+DATA: Our options have not changed. We can either respond to the Pakled demand or not. We can either use force or not. 
+RIKER: Allowing them access to our computer is a complete breech of Starfleet security. 
+WORF: Then force it must be.
+
+SURGEON: Don't worry about a thing, Captain. We've done this a hundred times, and we're ready when you are. 
+PICARD: Just get on with it, Doctor. I've got work to do. 
+SURGEON: Activate Sterile Field. Neural callipers. 
+SURGEON: This will be a secondary cardiac procedure with mid-line entry and excision of the early model unit. I anticipate no complications, as the patient has had positive primary results and exhibits extraordinary physical condition. We'll all be home in time for dinner. Tissue mitigator.
+
+DATA: There's limited information available on Pakled culture, but the eclectic range of their equipment suggests their technology was borrowed from others. 
+TROI: And now they have become militant. 
+DATA: So it would seem. 
+RIKER: Rationale? 
+TROI: They are unwilling to wait for the timely evolution of their species' intellectual capacity. They want instant knowledge, instant power and gratification. 
+PULASKI: The more they get, the more they want. 
+RIKER: And the more aggressive and dangerous they become. I think it's time we set some limits. 
+DATA: To what effect, sir? We are faced with an impossible conundrum. 
+RIKER: Suppose we turn their impatience and greed against them? 
+PULASKI: But how? 
+RIKER: Perhaps Geordi should give them something they want. Something important. Then we simply create the right moment for him to take it away, and get him the hell out of there. 
+TROI: Would you be suggesting a ruse of some sort? 
+RIKER: I would. 
+PULASKI: But what if we fail? What'll happen to Geordi then? 
+RIKER: We have no other choice. We have to try.
+
+LAFORGE: Let me talk to them. I'll get you their computer banks. 
+GREBNEDLOG: We want to be smart. 
+LAFORGE: So open the hailing frequency. They'll listen to me. 
+GREBNEDLOG: We are smart. 
+REGINOD: We need their computer things. 
+GREBNEDLOG: Yes. Yes.
+
+LAFORGE: Hey, let me talk to him. I'll get you their computer banks. 
+GREBNEDLOG: We want to be smart. 
+LAFORGE: So open the hailing frequency. They'll listen to me. 
+GREBNEDLOG: We are smart. 
+REGINOD: We need their computer things. 
+GREBNEDLOG: Yes. Yes.
+
+LAFORGE: Commander Riker? 
+RIKER: Yes, Lieutenant, we're here. 
+LAFORGE: The Pakleds seem pretty sincere. 
+GREBNEDLOG: We want what we want. 
+RIKER: Our computer banks are non-negotiable. 
+GREBNEDLOG: We want them. 
+LAFORGE: Believe me, they're nothing if not persistent. 
+GREBNEDLOG: We want to be nothing if not persistent. 
+LAFORGE: Nobody ever said they were great conversationalists. 
+RIKER: Where did they get their shields? 
+GREBNEDLOG: Yes. We like shields. 
+LAFORGE: Well, from what I've seen, half the systems on this ship have been stolen from Romulans, Klingons, Jarada, just about anybody they've ever came in contact with. 
+GREBNEDLOG: We like to be smart. 
+RIKER: Confirmed, Lieutenant La Forge. They steal technology. 
+DATA: But they lack the ability to use it properly. 
+RIKER: You're an excellent Chief Engineer, Lieutenant La Forge. 
+LAFORGE: Thank you, sir. 
+RIKER: And of course your knowledge of phaser and photon weaponry is unmatched. 
+LAFORGE: That's nice of you to say, sir, but really Lieutenant Worf 
+RIKER: Our missions are always inherently dangerous, and any of us could be called upon to make the ultimate sacrifice at any time. 
+LAFORGE: Yes, sir, but 
+RIKER: Speaking of time. This may be your time. I shall personally miss you. 
+DATA: Goodbye, Geordi. I shall miss you at weapons systems analysis. 
+LAFORGE: And I guess you'll just have to arm your photon torpedo countdowns without me. 
+DATA: As well as our hydrogen collectors. Fond farewell. 
+GREBNEDLOG: He knows about weapons. 
+REGINOD: You can make us strong. 
+LAFORGE: It's not something I really like to talk about. 
+WORF: Any classified weapons knowledge you share with your captors will be considered treason. 
+LAFORGE: But I may have no choice. 
+WORF: You will die without honour. 
+LAFORGE: Thanks a lot, Worf. 
+WORF: You will never attain the twenty fourth level of awareness. 
+LAFORGE: Twenty-four? That's quite a challenge. 
+WORF: Indeed. Twenty four is the gateway to heroic salvation. 
+PULASKI: Do you think he understands? 
+RIKER: He'd better. 
+TROI: He's afraid. 
+RIKER: We all are, Counsellor.
+
+GREBNEDLOG: You are smart. 
+LAFORGE: Not smart enough. I'm still here. 
+GREBNEDLOG: Make us strong. 
+LAFORGE: I thought you wanted me to help you go. Why don't we work on that guidance system, okay? 
+GREBNEDLOG: Make us strong, or die.
+
+SURGEON: It's not working. Something's wrong. The metabolation occlusions aren't holding. Damn it! I can't stop the heterocyclic declination. Fuse. 
+SURGEON: Again! We need a biomolecular physiologist in here. This man is dying. 
+MEDIC: Right away, sir.
+
+LAFORGE: You've got to be kidding. 
+GREBNEDLOG: Make us strong. 
+LAFORGE: Come on. There's not enough juice in these to blow up a passing asteroid. 
+GREBNEDLOG: Do it. Make us strong. 
+LAFORGE: I suppose we could increase the anti-matter charges. 
+REGINOD: Yes. We like power. 
+LAFORGE: Yeah. 
+GREBNEDLOG: Do not try to trick us. We can tell.
+
+PHYSIOLOGIST: Metabolation? 
+SURGEON: Negative. 
+PHYSIOLOGIST: Heterocyclics? 
+SURGEON: Failing. And capillary integrity too unpredictable to attempt a resect. 
+PHYSIOLOGIST: You're unwilling to make the attempt?? 
+SURGEON: I'm not qualified. 
+PHYSIOLOGIST: I know someone who is.
+
+SONYA: Are you sure he can do it, sir? Geordi's an engineer, not a weapons specialist. 
+RIKER: If anyone can improvise, it's Geordi. 
+SONYA: What makes you think the Pakleds even have that kind of gear on board? 
+DATA: Ongoing scanning indicates progressive weapons potential. The timing will be crucial. Geordi must correctly interpret our intentions. 
+RIKER: Geordi's up to speed. I trust his instincts. 
+DATA: The Pakleds did hear our little fiction about Geordi's weapons knowledge. 
+RIKER: Exactly. And since they equate intelligence with strength, they won't pass up the chance to use that knowledge. Can you do it? 
+SONYA: Count on it. 
+WORF: Bridge to Commander Riker! 
+RIKER: Go ahead, Bridge.
+WORF: I am receiving an emergency summons from Starbase Five One Five. Captain Picard is close to death. 
+RIKER: Be ready.
+
+REGINOD: We are strong. 
+LAFORGE: You're now armed to the teeth. 
+GREBNEDLOG: Teeth are for chewing. 
+LAFORGE: You have photon torpedo. You are strong. 
+GREBNEDLOG: We are strong. We have power.
+
+DATA: Positive indication of armed photon torpedoes, Commander. 
+RIKER: Geordi did it. 
+WORF: Starbase requests we proceed to base at warp nine 
+PULASKI: We've got to go. 
+TROI: Yes. the Captain needs our help. 
+RIKER: We can't leave Geordi behind. I want the Pakleds on that screen and I want them now. 
+DATA: Forced spectrum communications are spotty at best, sir. 
+RIKER: Do it. 
+RIKER: This is the Enterprise. Return our personnel or face immediate reprisal. 
+GREBNEDLOG: We are strong now. We have better weapons. 
+RIKER: Are you prepared to use them? 
+REGINOD: We are a force now. We will have respect. Power. 
+RIKER: We don't have time for this. You want power? Here's power. Riker to Ensign Gomez.
+
+SONYA: Ready, Commander Riker. 
+RIKER: Prepare firing sequencing.
+RIKER: Start firing countdown from twenty four.
+
+LAFORGE: I can't believe it! My friends, my people, they're trying to kill us! Kill me! 
+GREBNEDLOG: Believe it. They are violent. 
+LAFORGE: Okay, they want to play rough, that's fine with me. Just let me check something. 
+GREBNEDLOG: Good. He is on our side now.
+
+RIKER: Begin firing sequence. 
+COMPUTER: Twenty four, twenty three
+
+COMPUTER: Twenty two. twenty one, twenty 
+WORF: Firing sequence proceeding, sir. 
+RIKER: Hold fast. 
+COMPUTER: Eighteen, seventeen
+
+COMPUTER: Sixteen, fifteen 
+LAFORGE: Don't do anything yet. 
+COMPUTER: Fourteen, thirteen. 
+REGINOD: What are you doing? 
+LAFORGE: Making sure your systems are operative. 
+GREBNEDLOG: We will attack. We are strong.
+COMPUTER: Nine, eight, seven, six, five
+
+REGINOD: We should attack now. 
+LAFORGE: Just another second. We can't afford a mis-fire here. 
+COMPUTER: Two, one. 
+GREBNEDLOG: Hurry.
+RIKER: Fire. 
+LAFORGE: Now! 
+LAFORGE: No! Too late! 
+REGINOD: We have fired! They will be destroyed. 
+LAFORGE: They used their crimson force field. 
+GREBNEDLOG: It did not shoot. 
+LAFORGE: No, the crimson force field has disarmed us. 
+REGINOD: They are smart. 
+GREBNEDLOG: We are not strong. 
+RIKER: Drop your shields.
+
+RIKER: Allow us transport Lieutenant La Forge immediately. 
+DATA: Shields are down. 
+RIKER: Transporter room, beam one to the Bridge. 
+CHIEF: Aye, sir. 
+RIKER: Set heading for Starbase Five One Five, warp nine. 
+LAFORGE: Blowing that hydrogen exhaust through the Bussard collectors sure put on a nice light show. 
+RIKER: Harmless, but effective. Were you able disable the photons? 
+LAFORGE: Just in time. That's why you're still here.
+
+NURSE: Deactivating neural callipers. 
+PICARD: What the hell are you doing here? 
+PULASKI: Saving your life. 
+PICARD: Oh, come on. This is a routine procedure. Quite commonplace. 
+PULASKI: True. But you are not a commonplace man. You'll be out of recovery in four hours. 
+PICARD: I didn't want you involved in this. 
+PULASKI: You're welcome. 
+PICARD: If you're here, the entire crew must know. 
+PULASKI: You're still the Captain. Invincible. 
+PICARD: Thank you.
+
+PICARD: I beg your pardon? 
+LAFORGE: Looks like things are back to normal. 
+PICARD: I'm pleased to report that Ensign Crusher's Starfleet exam results permit him to continue his studies on board the Enterprise. Furthermore, any rumours of my brush with death are greatly exaggerated. Is that clear? 
+RIKER: Yes, sir. 
+PICARD: Then, Ensign Crusher, set course for the Epsilon Sector, warp five. Engage.

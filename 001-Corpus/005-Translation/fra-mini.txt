@@ -1,0 +1,99 @@
+Thanks.	Merci !
+We try.	On essaye.
+We won.	Nous avons gagné.
+We won.	Nous gagnâmes.
+We won.	Nous l'avons emporté.
+We won.	Nous l'emportâmes.
+Ask Tom.	Demande à Tom.
+Awesome!	Fantastique !
+Be calm.	Sois calme !
+Be calm.	Soyez calme !
+Be calm.	Soyez calmes !
+Be cool.	Sois détendu !
+Be fair.	Sois juste !
+Be fair.	Soyez juste !
+Be fair.	Soyez justes !
+Be fair.	Sois équitable !
+Be fair.	Soyez équitable !
+Be fair.	Soyez équitables !
+Be kind.	Sois gentil.
+Be nice.	Sois gentil !
+Be nice.	Sois gentille !
+Be nice.	Soyez gentil !
+Be nice.	Soyez gentille !
+Be nice.	Soyez gentils !
+Be nice.	Soyez gentilles !
+Beat it.	Dégage !
+Call me.	Appelle-moi !
+Call me.	Appellez-moi !
+Call us.	Appelle-nous !
+Call us.	Appelez-nous !
+Come in.	Entrez !
+Come in.	Entre.
+Come in.	Entre !
+Come in.	Entrez !
+Come on!	Allez !
+Come on.	Allez !
+Come on.	Viens !
+Come on.	Venez !
+Drop it!	Laisse tomber !
+Drop it!	Laissez tomber !
+Drop it!	Laisse-le tomber !
+Drop it!	Laissez-le tomber !
+Get out!	Sortez !
+Get out!	Sors !
+Get out!	Sortez !
+Get out.	Sors.
+Get out.	Casse-toi.
+Go away!	Dégage !
+Go away!	Pars !
+Go away.	Va te faire foutre !
+Go away.	Pars !
+Go away.	Dégage !
+Go away.	Fous le camp !
+Go away.	Pars d'ici.
+Go away.	Va t'en !
+Go away.	Disparais !
+Go away.	Allez-vous en !
+Go slow.	Va doucement !
+Go slow.	Allez doucement !
+Goodbye!	À la revoyure.
+Hang on!	Attends un peu !
+Hang on!	Attendez un peu !
+Hang on.	Tiens bon !
+Hang on.	Tenez bon !
+He quit.	Il laissa tomber.
+He quit.	Il a laissé tomber.
+He runs.	Il court.
+Help me!	Aide-moi !
+Help me.	Aide-moi.
+Help me.	Aidez-moi.
+Help us.	Aidez-nous !
+Help us.	Aide-nous !
+Hold it!	Ne bouge plus !
+Hold on.	Ne quittez pas.
+Hug Tom.	Fais un câlin à Tom.
+I agree.	Je suis du même avis.
+I drive.	Je conduis.
+I tried.	J'essayai.
+I tried.	J'ai essayé.
+I tried.	J'ai tenté.
+I'll go.	J'irai.
+I'm fat.	Je suis gras.
+I'm fat.	Je suis gros.
+I'm fit.	Je suis en forme.
+I'm hit!	Je suis touché !
+I'm hit!	Je suis touchée !
+I'm ill.	Je suis malade.
+I'm sad.	Je suis triste.
+I'm shy.	Je suis timide.
+I'm wet.	Je suis mouillé.
+I'm wet.	Je suis mouillée.
+It's me!	C'est bibi !
+Join us.	Joignez-vous.
+Join us.	Joignez-vous à nous.
+Keep it.	Garde-le !
+Keep it.	Gardez-le !
+Kiss me.	Embrasse-moi.
+Kiss me.	Embrassez-moi.
+Me, too.	Moi aussi.

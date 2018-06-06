@@ -1,0 +1,856 @@
+A: Hi, how are you doing?
+B: I'm fine. How about yourself?
+A: I'm pretty good. Thanks for asking.
+B: No problem. So how have you been?
+A: I've been great. What about you?
+B: I've been good. I'm in school right now.
+A: Do you like it there?
+B: It's okay. It's a really big campus.
+A: Good luck with school.
+B: Thank you very much.
+
+A: How's it going?
+B: I'm doing well. How about you?
+A: Never better, thanks.
+B: So how have you been lately?
+A: I've actually been pretty good. You?
+B: I'm actually in school right now.
+A: Which school do you attend?
+B: I'm attending PCC right now.
+A: Are you enjoying it there?
+B: It's not bad. There are a lot of people there.
+A: Good luck with that.
+B: Thanks.
+
+A: How are you doing today?
+B: I'm doing great. What about you?
+A: I'm absolutely lovely, thank you.
+B: Everything's been good with you?
+A: I haven't been better. How about yourself?
+B: I started school recently.
+A: How do you like it so far?
+B: I like it so far. My classes are pretty good right now.
+A: I wish you luck.
+B: Thanks a lot.
+
+A: It's an ugly day today.
+B: I know. I think it may rain.
+A: It's the middle of summer, it shouldn't rain today.
+B: That would be weird.
+A: Yeah, especially since it's ninety degrees outside.
+B: I know, it would be horrible if it rained and it was hot outside.
+A: Yes, it would be. 
+B: I really wish it wasn't so hot every day. 
+A: Me too. I can't wait until winter.
+B: I like winter too, but sometimes it gets too cold.
+A: I'd rather be cold than hot.
+B: Me too.
+
+A: It doesn't look very nice outside today.
+B: You're right. I think it's going to rain later.
+A: In the middle of the summer, it shouldn't be raining.
+B: That wouldn't seem right.
+A: Considering that it's over ninety degrees outside, that would be weird.
+B: Exactly, it wouldn't be nice if it started raining. It's too hot.
+A: I know, you're absolutely right.
+B: I wish it would cool off one day.
+A: That's how I feel, I want winter to come soon.
+B: I enjoy the winter, but it gets really cold sometimes.
+A: I know what you mean, but I'd rather be cold than hot.
+B: That's exactly how I feel.
+
+A: I wish it was a nicer day today.
+B: That is true. I hope it doesn't rain.
+A: It wouldn't rain in the middle of the summer.
+B: It wouldn't seem right if it started raining right now.
+A: It would be weird if it started raining in ninety degree weather.
+B: Any rain right now would be pointless.
+A: That's right, it really would be.
+B: I want it to cool down some.
+A: I know what you mean, I can't wait until it's winter.
+B: Winter is great. I wish it didn't get so cold sometimes though.
+A: I would rather deal with the winter than the summer.
+B: I feel the same way.
+
+A: It's such a nice day.
+B: Yes, it is.
+A: It looks like it may rain soon.
+B: Yes, and I hope that it does.
+A: Why is that?
+B: I really love how rain clears the air.
+A: Me too. It always smells so fresh after it rains.
+B: Yes, but I love the night air after it rains.
+A: Really? Why is it?
+B: Because you can see the stars perfectly.
+A: I really hope it rains today.
+B: Yeah, me too.
+
+A: Isn't it a nice day?
+B: It really is.
+A: It seems that it may rain today.
+B: Hopefully it will.
+A: How come?
+B: I like how clear the sky gets after it rains.
+A: I feel the same way. It smells so good after it rains.
+B: I especially love the night air when it rains.
+A: Really? Why?
+B: The stars look so much closer after it rains.
+A: I really want it to rain today.
+B: Yeah, so do I.
+
+A: Don't you think it's nice out?
+B: Yes, I think so too.
+A: I think that it's going to rain.
+B: I hope that it does rain.
+A: You like the rain?
+B: The sky looks so clean after it rains. I love it.
+A: I understand. Rain does make it smell cleaner.
+B: I love most how it is at night after it rains.
+A: How come?
+B: You can see the stars so much more clearly after it rains.
+A: I would love for it to rain today.
+B: I would too.
+
+A: Hello, may I speak to Alice please?
+B: This is she. How's it going?
+A: I've been trying to call you all day.
+B: Sorry about that. I was cleaning up.
+A: It's okay.
+B: So what were you calling me about?
+A: Oh, I just wanted to see if you wanted to hang out tomorrow.
+B: Sure, what did you want to do?
+A: Maybe we can go see a movie or something.
+B: That sounds like fun. Let's do it.
+A: I'll see you tomorrow then.
+B: See you then. Goodbye.
+
+A: Hi, how are you. Is Alice there?
+B: Speaking. What's up?
+A: Why haven't you answered the phone?
+B: My bad, I had chores to do.
+A: That's all right.
+B: What was the reason for your call?
+A: I want to do something tomorrow with you.
+B: Sounds good. What did you have in mind?
+A: I was thinking about seeing a movie.
+B: Okay, let's go see a movie.
+A: Until then.
+B: Talk to you later.
+
+A: Is Alice available?
+B: You're talking to her.
+A: I've called you a hundred times today.
+B: I was busy doing something. I apologize.
+A: No problem.
+B: Did you need something?
+A: Do you want to do something tomorrow?
+B: Is there somewhere special you wanted to go?
+A: How about a movie?
+B: A movie sounds good.
+A: Call me tomorrow then.
+B: I will see you tomorrow.
+
+A: Have you seen the new girl in school?
+B: No, I haven't.
+A: She's really pretty.
+B: Describe her to me.
+A: She's not too tall.
+B: Well, how tall is she?
+A: She's about five feet even.
+B: What does she look like, though?
+A: She has pretty light brown eyes.
+B: I may know which girl you're talking about.
+A: So you have seen her around?
+B: Yes, I have.
+
+A: There's a new girl in school, have you seen her yet?
+B: I haven't seen her yet.
+A: I think that she is very pretty.
+B: Tell me how she looks.
+A: She's kind of short.
+B: What height is she?
+A: She's probably about five feet.
+B: That's nice, but tell me what she looks like.
+A: The first thing I noticed was her beautiful brown eyes.
+B: I think I might've bumped into her before.
+A: Are you telling me that you've seen her before?
+B: I believe so.
+
+A: Have you met the new girl?
+B: No. Have you?
+A: She's one of the prettiest girls at the school.
+B: What does she look like?
+A: Well, she's quite short.
+B: How tall would you say that she is?
+A: I would say she's only five feet.
+B: What about her facial features?
+A: She has light brown eyes, absolutely beautiful.
+B: I think I know who you're talking about.
+A: Have you seen her?
+B: I think that I have.
+
+A: Why weren't you at school yesterday?
+B: I wasn't really feeling well.
+A: What was wrong with you?
+B: My stomach was upset.
+A: Do you feel better now?
+B: I don't really feel too well yet.
+A: Do you want anything to make you feel better?
+B: No, thanks. I already took some medicine.
+A: I hope you feel better.
+B: Thank you.
+
+A: What reason do you have for missing school?
+B: I was sick.
+A: How were you sick?
+B: I had a stomachache.
+A: Did it get any better?
+B: I'm still feeling under the weather.
+A: Would you like anything for your stomach?
+B: I took something earlier.
+A: Get better.
+B: Thanks a lot.
+
+A: Why didn't you go to school yesterday?
+B: I stayed home because I wasn't feeling well.
+A: What was your problem?
+B: My stomach was bothering me.
+A: Are you feeling any better?
+B: I'm still feeling a little sick.
+A: I'm going to the store, would you like any Pepto Bismol?
+B: That's okay.
+A: I hope you feel better.
+B: I'd appreciate that.
+
+A: Did you hear the good news?
+B: No, I haven't.
+A: I got a promotion at my job.
+B: Did you really?
+A: Seriously, I am so excited.
+B: Well, congratulations.
+A: Thank you.
+B: I'm so happy for you.
+A: Really?
+B: Yes. You really deserved this.
+A: You think so?
+B: Yes. Good for you.
+
+A: Have you heard my good news?
+B: You haven't told me anything yet.
+A: I got a promotion at work earlier this week.
+B: Is that right?
+A: It's the truth. I am really happy.
+B: Congratulations on your promotion.
+A: Thank you very much.
+B: I am really excited for you.
+A: Are you really?
+B: I'm serious. You deserved this promotion.
+A: Is that what you really think?
+B: Yes, I do.
+
+A: I haven't told you what happened yet, have I?
+B: I haven't heard anything.
+A: My boss offered me a promotion, and I took it.
+B: Are you serious?
+A: Yes, I am really excited.
+B: That's great. Congratulations.
+A: I appreciate that.
+B: You have no idea how happy I am for you.
+A: For real?
+B: I believe you were the best choice for that promotion. I really do.
+
+A: You look really nice today. 
+B: Thank you. I just got this outfit the other day.
+A: Really, where did you get it?
+B: I got it from Macy's.
+A: It's really nice.
+B: Thanks again. You look nice today, too.
+A: Thank you. I just got these shoes today.
+B: Really? What kind of shoes are they?
+A: These are called All Star Chuck Taylors.
+B: I really like those. How much did they cost?
+A: They were about forty dollars.
+B: I think I'm going to go buy myself a pair.
+
+A: I absolutely love what you're wearing today.
+B: You do? I just bought this outfit a couple days ago.
+A: Seriously, it looks really nice on you. Where did you buy it from?
+B: I bought it from the Macy's at the Santa Anita mall.
+A: I really like that outfit.
+B: Thanks. I think you look nice today, too.
+A: Thank you. I just bought these new shoes earlier today.
+B: Those are nice. What are they?
+A: These are some Chucks.
+B: Those are great. How much were they?
+A: I got them for forty.
+B: I think I might go and find me my own pair of Chucks.
+
+A: I think that you look very cute today.
+B: Is that right? This is a brand new outfit.
+A: What store did you get it from?
+B: I went to Macy's and picked it out.
+A: I love your outfit right now.
+B: Well, I think you look nice today too.
+A: Thanks. I found these new shoes earlier at the store.
+B: I think that those are some really nice shoes. What kind are they?
+A: These are Chucks.
+B: Your shoes look really nice. How much did you get them for?
+A: They only cost me about forty dollars.
+B: I'm going to go get a pair for myself.
+
+A: Tell me, what do you enjoy doing in your spare time?
+B: I enjoy drawing and painting.
+A: You know how to draw and paint?
+B: Yes, I do.
+A: When did you learn how to do that?
+B: I learned back in high school.
+A: Oh, so you took an art class?
+B: Yeah, I loved that class.
+A: I see that you're pretty talented.
+B: Thank you very much.
+A: I wish I had a talent like that.
+B: I'm sure you have a talent. It's just hidden.
+
+A: What kinds of things do you like to do?
+B: I've always liked to draw and paint.
+A: I didn't know you knew how to draw and paint.
+B: I do it every once in a while.
+A: How long have you known how to do that?
+B: I first learned how to do it in high school.
+A: Did you take some sort of art class or something?
+B: That was my favorite class.
+A: You have got to be talented.
+B: Thanks.
+A: If only I was talented.
+B: You have a talent. You just don't know what it is yet.
+
+A: Are there any hobbies you do?
+B: When I have time, I sometimes draw and paint.
+A: Oh, you actually do that?
+B: Every so often, I do.
+A: Did you always know how to draw and paint?
+B: I was taught in high school how to draw and paint.
+A: You had an art class?
+B: Exactly, it was my favorite class.
+A: Well, it's good that you're so talented.
+B: I appreciate that.
+A: Talent is a great thing, I wish I had one.
+B: Everyone has a talent. They just need to find it.
+
+A: What's your favorite movie?
+B: My favorite movie is Superbad.
+A: Oh, why is that?
+B: It's the funniest movie that I've ever seen.
+A: That's true. It is a very funny movie.
+B: You've seen it before? 
+A: Yes, I saw that movie the first day it came out in theaters.
+B: Didn't you laugh through the whole movie? I did.
+A: Me too. That movie brought tears to my eyes.
+B: Mine too.
+A: I have it on DVD at my house if you want to come over and watch it.
+B: Sure, let's go.
+
+A: Which movie is your favorite to watch?
+B: I have to say, my favorite movie is Superbad.
+A: Is that right? Why?
+B: Honestly, it is one of the funniest movies I've seen in a long time.
+A: You're right. That movie is hilarious.
+B: I didn't think you saw that movie.
+A: I went to see it the day it came out.
+B: I was laughing through the whole movie.
+A: I couldn't help laughing, either. 
+B: Same here.
+A: I bought the movie. Would you like to come to my house and watch it?
+B: Of course.
+
+A: Out of every movie that you've seen, which one is your favorite?
+B: I'm going to have to say that Superbad is the best movie ever.
+A: You think so, how come?
+B: Well, Superbad is super funny.
+A: You're not lying, I found that movie absolutely hilarious.
+B: I didn't know that you saw Superbad before.
+A: I made sure to be in line to see it the first day it came out.
+B: I couldn't keep from laughing throughout the whole movie.
+A: I was laughing hysterically the whole time; my stomach muscles hurt afterwards.
+B: That's exactly how I felt.
+A: I got the movie when it came out on DVD, do you want to come over?
+B: I would love to.
+
+A: What type of music do you like to listen to?
+B: I like listening to different kinds of music.
+A: Like what, for instance?
+B: I enjoy Rock and R&B.
+A: Why is that?
+B: I like the different instruments that they use.
+A: That's a good reason to like something.
+B: Yeah, I think so too.
+
+A: What kind of music do you enjoy listening to?
+B: I enjoy listening to all kinds of music.
+A: What kind?
+B: I like to listen to Rock and R&B.
+A: Why do you like that type of music?
+B: I like the kinds of instruments that they use.
+A: I think that's an excellent reason to like something.
+B: Thanks, I feel the same way.
+
+A: What is your favorite kind of music?
+B: I listen to various types of music.
+A: What genres?
+B: I enjoy listening to both Rock and R&B.
+A: What interests you in that type of music?
+B: I enjoy the different types of instruments that they use.
+A: That is a perfect reason to like a certain kind of music.
+B: That's exactly what I think too.
+
+A: Did you go to the basketball game on Friday?
+B: No, I couldn't make it.
+A: You missed a really good game.
+B: Oh, really? Who won?
+A: Our school did. They played really well.
+B: Too bad I was busy. I really wanted to go.
+A: Yeah, you should have. It was really exciting.
+B: So what was the score?
+A: The score was 101-98.
+B: Man, that was a really close game.
+A: That's what made it so great.
+B: I'll make sure and make it to the next one.
+
+A: Were you able to attend Friday night's basketball game?
+B: I was unable to make it.
+A: You should have been there. It was intense.
+B: Is that right. Who ended up winning?
+A: Our team was victorious.
+B: I wish I was free that night. I'm kind of mad that I didn't go.
+A: It was a great game.
+B: What was the score at the end of the game?
+A: Our team won 101-98.
+B: Sounds like it was a close game.
+A: That's the reason it was such a great game.
+B: The next game, I will definitely be there.
+
+A: I was meaning to ask you if you saw the basketball game on Friday.
+B: I wanted to go, but I couldn't.
+A: It was a great game.
+B: It's too bad that I couldn't make it. Who won?
+A: Our team played hard and won.
+B: I really wish I went to the game.
+A: It was the best game ever.
+B: So tell me the final score.
+A: The other team lost by three points, 101-98. 
+B: It must've been a close game.
+A: It really was. You should've gone.
+B: Hopefully, I'll make it to the next one.
+
+A: What are you doing this weekend?
+B: I'm going to the movies with a friend. How about you?
+A: I'm not sure yet.
+B: Well, did you want to go see a movie with me?
+A: What movie are you going to see?
+B: I'm not sure yet. Is there something you want to see?
+A: There's nothing I can think of.
+B: So, did you want to go?
+A: No, thanks, maybe another time.
+B: Okay, sounds good.
+
+A: Do you know what you're going to do this weekend?
+B: I am going to see a movie with a friend of mine. What about you?
+A: I don't know.
+B: Would you like to see a movie with me and my friend?
+A: Do you know what movie you're going to watch?
+B: I don't know, but was there a certain movie you wanted to see?
+A: None that I can think of.
+B: Well, would you like to go?
+A: Thank you for inviting me, but I think I'll pass.
+B: All right. Another time then.
+
+A: You have any ideas as to what you want to do this weekend?
+B: I'm going to the movie theater with my friend. What are you going to do?
+A: I'm not quite sure yet.
+B: How about you see a movie with me and my friend?
+A: What movie are you and your friend planning on watching?
+B: Not sure. Is there a movie out that catches your eye?
+A: No good movies come to mind.
+B: Have you decided whether or not you would like to go?
+A: No, thanks. Maybe another time.
+B: For sure another day.
+
+A: Did you go to school today?
+B: Yeah, I went to school today. Were you there?
+A: No, I didn't go, I've been sick.
+B: That sucks. Did you want the assignments from English class?
+A: That would be nice, thank you.
+B: No problem, you're welcome.
+A: I will be glad to do the same for you when you're sick.
+B: Well, thank you. I hope to see you at school tomorrow.
+
+A: Have you attended school today?
+B: I attended school today. Did you?
+A: I wasn't able to attend school because I was feeling ill.
+B: I'm sorry to hear that. Would you like the assignments from English class?
+A: I would really appreciate that, thanks.
+B: It's no trouble at all.
+A: If you get sick, I'll return the favor.
+B: Thanks. See you at school tomorrow if you feel better.
+
+A: Have you gone to school today?
+B: I went to school today. Did you go to school?
+A: I couldn't go to school today, I was sick.
+B: That's horrible. I'd be happy to give you the assignments from English class.
+A: Thank you very much, that's kind of you.
+B: Don't mention it.
+A: When you miss a day of school, I'll be happy to give you the English assignments.
+B: That is greatly appreciated and I hope you feel well enough to go to school tomorrow.
+
+A: Did you hear the news?
+B: What happened?
+A: Our cousin went into labor and had her baby last week.
+B: She did? Why didn't anyone tell me?
+A: I would've thought that somebody would have told you.
+B: No, I had no idea.
+A: Well, she did, her baby was 8 pounds 6 ounces.
+B: Oh my God, that's great!
+A: Are you going to go and visit her and the baby?
+B: I think that I might.
+A: Good! I just thought I'd let you know.
+B: Thanks for telling me.
+
+A: Have you heard what happened?
+B: Heard what?
+A: Debrah already had her baby.
+B: I didn't know that.
+A: I thought you knew.
+B: I honestly didn't know.
+A: The baby was 8 pounds 6 ounces.
+B: That's good to hear.
+A: Will you go and visit them?
+B: Of course I will.
+A: I just wanted to give you the good news.
+B: Thanks for letting me know.
+
+A: Have you heard the news?
+B: I haven't heard anything.
+A: Debrah had her baby last week.
+B: Nobody told me.
+A: I thought you heard.
+B: I really wasn't told anything.
+A: She was a cute 8 pounds 6 ounces.
+B: Wow, how exciting.
+A: I know, you should really go and see her and the baby.
+B: Of course I will.
+A: I just wanted to let you know what happened.
+B: I appreciate that.
+
+A: Did you go to school today?
+B: Of course. Did you?
+A: I didn't want to, so I didn't.
+B: That's sad, but have you gone to the movies recently?
+A: That's a switch.
+B: I'm serious, have you?
+A: No, I haven't. Why?
+B: I really want to go to the movies this weekend.
+A: So go then.
+B: I really don't want to go by myself.
+A: Well anyway, do you plan on going to school tomorrow?
+B: No, I think I'm going to go to the movies.
+
+A: Did you make it to school today?
+B: I always do. Did you go to school today?
+A: No, I didn't.
+B: You should have, but have you seen any movies lately?
+A: That was an odd change of subject.
+B: Maybe it was, but answer the question.
+A: No, not recently.
+B: I want to go to see a movie this weekend.
+A: What's stopping you then?
+B: I don't want to go alone.
+A: So, will you be at school tomorrow?
+B: No, I want to go to the movies instead.
+
+A: Did you even bother to go to school today?
+B: Yeah, I went. Did you go?
+A: No, I didn't feel like it.
+B: That's nice, have you been to the movies lately?
+A: No, but that was a random change of subject.
+B: It may have been random, but have you?
+A: I haven't lately.
+B: I would love to catch a movie this weekend.
+A: So then, why don't you just go?
+B: I don't want to see a movie by myself.
+A: Okay, so are you going to school tomorrow?
+B: I think I might just go to the movies.
+
+A: Thanks for coming to see me today.
+B: It's no problem. I was really missing you anyway.
+A: I missed you too.
+B: Why haven't you tried to come see me then?
+A: I've been really busy.
+B: Doing what?
+A: Working.
+B: I would've come to see you sooner, but I've been busy too.
+A: What have you been doing?
+B: I've been working too.
+A: Well regardless, I'm very happy that you came to see me.
+B: I am too.
+
+A: I'm really glad that you came to see me.
+B: I had to. I was missing you a lot.
+A: I was missing you too.
+B: So, why haven't you visited me?
+A: I've actually been busy lately.
+B: What have you been doing?
+A: I've just been working really hard.
+B: I've also been busy.
+A: Tell me what you've been doing.
+B: Basically, I've been working too.
+A: Well whatever, I'm glad you came.
+B: So am I.
+
+A: I'm really happy that you came to visit me.
+B: I really missed you a lot.
+A: I've been missing you like crazy.
+B: I don't understand why you haven't come to visit me.
+A: Lately, I've been quite busy.
+B: Tell me what you've been up to.
+A: I've really been working a lot lately.
+B: I've been pretty busy myself.
+A: So what have you been up to?
+B: I've just been working a lot.
+A: Whatever the reason may be, I'm glad you visited me.
+B: I'm glad I did too.
+
+A: Hey, did you hear about Jessica's party this weekend?
+B: Yeah, but I'm still waiting for my invitation.
+A: Oh really? She gave me mine earlier today.
+B: Well, she'll probably just give me my invitation later on today.
+A: Yeah, so are you planning on going?
+B: I think so. It sounds like it's going to be a lot of fun.
+A: It really does, I can't wait.
+B: What time does the party start?
+A: It starts at 8 o'clock.
+B: Oh, well, how many people has she given invites to so far?
+A: I'm not sure, but I don't think she's given out that many.
+B: Well, hopefully she'll give me my invite later on today.
+
+A: Have you heard about Jessica's party on Saturday?
+B: I've heard about it, but I'm still waiting for my invitation.
+A: Really? I got mine from her this morning.
+B: I'm guessing that she's going to give me my invite today or tomorrow.
+A: You're probably right, do you intend on going to the party?
+B: I want to. I heard it's going to be really fun.
+A: I know, it does sound pretty awesome.
+B: Well, when does the party start?
+A: It's supposed to start at about eight.
+B: How many invitations has she given out?
+A: I really don't know, but I don't think she gave out that many yet.
+B: I really want to go, so I hope that she gives me my invite soon.
+
+A: Has anyone told you about Jessica's party coming up?
+B: I was told about it already. I'm just waiting for my invitation.
+A: Is that right? I already got my invitation from her earlier.
+B: I believe that she will give me the invitation today.
+A: Are you even going to go?
+B: Yeah, it sounds like it's going to be the best party of the year.
+A: Exactly, it seems like it's going to be loads of fun.
+B: When exactly does the party start?
+A: The invitation says it starts at 8:00 p.m.
+B: Has she given out a lot of invitations yet?
+A: I have no idea, she hasn't given out many though.
+B: I'm planning on going, but I really need her to give me my invitation.
+
+A: Hey, what's up?
+B: Nothing really.
+A: I'm throwing a party on Friday.
+B: I didn't realize that.
+A: You didn't?
+B: Nobody has told me anything about your party.
+A: Did you want to go?
+B: When does it start?
+A: At 8:00 p.m.
+B: I'll be there.
+A: I'd better see you there.
+B: Of course.
+
+A: What's going on with you?
+B: Fine. What's going on with you?
+A: I'm having a party this Friday.
+B: I had no idea.
+A: Is that right?
+B: I didn't hear anything about it.
+A: Can you go?
+B: What time?
+A: It starts at 8 o'clock.
+B: I'll go.
+A: I hope that I'll see you there.
+B: No doubt.
+
+A: What's going on?
+B: Not much.
+A: This Friday, I'm throwing a party.
+B: Oh really? I didn't know that.
+A: Are you serious?
+B: I haven't heard anything about it.
+A: Can you make it?
+B: What time does it start?
+A: The party starts at 8.
+B: Yeah, I think I'll go.
+A: Am I going to see you there?
+B: You will.
+
+A: What's going on?
+B: Nothing really, you?
+A: I'm throwing a party next Saturday.
+B: Is that right?
+A: Yeah, are you going to come?
+B: I'm sorry, I can't.
+A: Why not?
+B: I don't really want to.
+A: Well, why don't you?
+B: I hate going to parties.
+A: Well, that's okay.
+B: Yeah, sorry.
+
+A: What's up?
+B: Nothing, how about you?
+A: Next Saturday, I'm going to have a party.
+B: Oh, really?
+A: You are coming?
+B: Probably not.
+A: Why is that?
+B: I don't feel like going.
+A: Why not?
+B: I really can't stand going to parties.
+A: I understand, I guess.
+B: Sorry about that.
+
+A: What's happening?
+B: Not a lot, what about you?
+A: I'm having a party next Saturday.
+B: That's nice.
+A: Are you going to be there?
+B: I don't think so.
+A: Is there a reason why?
+B: I just really don't want to go.
+A: How come?
+B: I don't really like parties.
+A: I wish you would go, but that's okay.
+B: I'm sorry.
+
+A: What's up?
+B: Nothing much, what's going on?
+A: I'm having a party this Friday.
+B: Oh, really? That's nice.
+A: I wanted to see if you wanted to come.
+B: This Friday? Sorry, I already have plans.
+A: Doing what?
+B: I'm going to dinner with my family.
+A: I really wanted you to come, but I understand.
+B: Yeah, maybe next time.
+A: I'll hold you to that.
+B: Sounds like a plan.
+
+A: Hey, what's good with you?
+B: Not a lot. What about you?
+A: I'm throwing a party on Friday.
+B: That sounds like fun.
+A: Do you think you can come?
+B: I'm sorry. I'm already doing something this Friday.
+A: What are you going to be doing?
+B: My family and I are going to dinner.
+A: I was hoping you would come.
+B: I'll definitely try to make it the next time.
+A: I'd better see you there.
+B: All right. I'll see you next time.
+
+A: What's going on?
+B: Nothing really. How about you?
+A: A lot, like the party I'm having on Friday.
+B: Well, that's cool.
+A: Will you be able to make it?
+B: I'm busy this Friday. I'm sorry.
+A: What do you have to do?
+B: I'm having dinner with my family
+A: Maybe you can come next time.
+B: I'll make sure and come to your next party.
+A: I'll look for you at my next party.
+B: I'll be there.
+
+A: It was nice talking to you.
+B: Why are you trying to rush me off the phone?
+A: I really have to go.
+B: Why? I still wanted to talk to you.
+A: I have things to do.
+B: Like what?
+A: Don't be nosey.
+B: I'm not. I just want to know.
+A: Well, it's really none of your business.
+B: That's harsh.
+A: I'm sorry, but I have to go.
+B: Fine.
+
+A: I've enjoyed conversing with you.
+B: Is there a reason why you're trying to get off the phone so fast?
+A: I've got to go.
+B: I wasn't done talking to you.
+A: I have to do some things, and besides, it's not polite to be nosey.
+B: I'm not being nosey. I'm just asking.
+A: I really don't think it's any of your business.
+B: That's not nice.
+A: I apologize, but I'm getting off the phone now.
+B: Okay.
+
+A: I'll talk to you later.
+B: What's the rush?
+A: I have to get off the phone now.
+B: I'm not ready to get off the phone with you.
+A: There are other things I need to take care of.
+B: What is it that you need to do? 
+A: Please don't be nosey.
+B: I'm not being nosey, it's just a question.
+A: You don't need to worry about that.
+B: That was mean to say.
+A: I am very sorry, but I must go.
+B: I guess.
+
+A: Well, it was nice talking to you.
+B: It was nice talking to you too.
+A: We should really hang out again.
+B: That would be fun.
+A: Where do you want to go?
+B: I think we should go out to eat.
+A: That sounds good.
+B: All right, so I'll see you then.
+A: I'll call you later.
+B: Okay, I'll talk to you later then.
+A: See you later.
+B: Bye.
+
+A: I enjoyed talking to you.
+B: I enjoyed talking to you too.
+A: We should hang out some time.
+B: I think that would be nice.
+A: Is there anything you would like to do next time?
+B: Do you want to go out to eat?
+A: I'd like that.
+B: So I'll see you next time.
+A: I'm going to call you soon. 
+B: I'll talk to you later.
+A: See you soon.
+B: Goodbye.
+
+A: I had fun talking to you.
+B: It was really nice talking to you also.
+A: I think we should really do something sometime.
+B: That should be loads of fun.
+A: What do you want to do next time?
+B: Would you like to go to dinner or something?
+A: Yeah, let's do that.
+B: Okay, until next time then.
+A: I'll call you so we can set that up.
+B: Talk to you then.
+A: All right, see you.
+B: See you.
+
+
+
+

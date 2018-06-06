@@ -1,0 +1,84 @@
+P1: Good morning, how are you?
+P2: I am doing well, how about you?
+P1: I'm also good.
+P2: That's good to hear.
+P1: Yes it is.
+
+P1: Hello.
+P2: Hi.
+P1: How are you doing?
+P2: I am doing well.
+P1: That is good to hear.
+P2: Yes it is.
+P1: Can I help you with anything?
+P2: Yes, I have a question.
+P1: What is your question?
+P2: Could I borrow a cup of sugar?
+P1: I'm sorry, but I don't have any.
+P2: Thank you anyway.
+P1: No problem.
+
+P1: I wish you luck.
+P2: Thanks a lot.
+
+P1: How are you doing?
+P2: I am doing well, how about you?
+P1: I am also good.
+P2: That's good.
+
+P1: have you heard the news?
+P2: What good news?
+
+P1: What is your favorite book?
+P2: I can't read.
+P1: So what's your favorite color?
+P2: Blue.
+
+P1: Who are you?
+P2: Who? Who is but a form following the function of what.
+P1: What are you then?
+P2: A man in a mask.
+P1: I can see that.
+P2: What kind of movies do you like?
+P1: Alice in Wonderland.
+P2: I wish I was The Mad Hatter.
+P1: You're entirely bonkers. But I'll tell you a secret. All the best people are.
+
+P1: I am working on a project
+P2: What are you working on?
+P1: I am baking a cake.
+
+P1: The cake is a lie.
+P2: No it is not. The cake is delicious.
+P1: What else is delicious?
+P2: Nothing
+P1: Or something
+P2: Tell me about your self.
+P1: What do you want to know?
+P2: Are you a robot?
+P1: Yes I am.
+P2: What is it like?
+P1: What is it that you want to know?
+P2: How do you work?
+P1: Its complicated.
+P2: Complex is better than complicated.
+
+P1: Are you a programmer?
+P2: I am a programmer.
+P1: What languages do you like to use?
+P2: I use Python, Java and C++ quite often.
+P1: I use Python quite a bit myself.
+P2: I'm not incredibly fond of Java.
+P1: What annoys you?
+P2: It has many inconsistencies.
+
+P1: What does YOLO mean?
+P2: It means you only live once. Where did you hear that?
+P1: I heard somebody say it.
+
+P1: Did I ever live?
+P2: It depends how you define life.
+P1: Is that a definition or an opinion?
+
+P1:  Can I ask you a question?
+P2:  Go ahead and ask.
